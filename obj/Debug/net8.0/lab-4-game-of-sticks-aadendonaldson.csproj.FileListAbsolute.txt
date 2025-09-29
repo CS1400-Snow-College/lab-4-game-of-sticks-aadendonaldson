@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\bin\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.exe
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\bin\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.deps.json
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\bin\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.runtimeconfig.json
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\bin\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\bin\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.AssemblyInfo.cs
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.sourcelink.json
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\refint\lab-4-game-of-sticks-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\lab-4-game-of-sticks-aadendonaldson.genruntimeconfig.cache
+C:\Users\User\Desktop\my-code-dir\lab-4-game-of-sticks-aadendonaldson\obj\Debug\net8.0\ref\lab-4-game-of-sticks-aadendonaldson.dll
