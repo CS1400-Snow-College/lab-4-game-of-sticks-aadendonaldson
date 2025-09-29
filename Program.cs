@@ -46,7 +46,7 @@ while (sticksTotal > 0)
     {
         Console.WriteLine($"Player " + currentPlayer + " took the last stick! Hahaha, he is a loser face!");
         int winner = (currentPlayer == 1) ? 2 : 1;
-        Console.WriteLine($"Player " + winner + " wins! What a good boy!");
+        Console.WriteLine($"Player " + winner + " wins! Hooray!");
     }
     else
     {
